@@ -1,0 +1,12 @@
+Origin: Scooter Companion
+Label: Scooter Companion
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Scooter Companion
+
+SHA256:
+ 0708ca8be4b076b12b1ea3f8052c051cc95dc53320e43a762079ccfd028c34ca 597 Packages.bz2
+ 4c83410534a374dca62aea559a15dba52b9a0ed2dc6c4f78b8d00b0cde8635cf 592 Packages.xz

@@ -1,0 +1,37 @@
+{
+    "bundle_id": "engineering.0x.scootercompanion",
+    "name": "Scooter Companion",
+    "version": "0.1",
+    "tagline": "Only one of the best E-Scooter hacking apps ever!",
+    "homepage": "https://scootercompanion.github.io/",
+    "developer": {
+        "name": "KToffel & schorlescooter",
+        "email": "scootercompanion@gmail.com"
+    },
+    "maintainer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Telegram",
+            "url": "https://t.me/joinchat/HRNGtjJ4mp2LYr_j"
+        },
+        {
+            "name": "Website",
+            "url": "https://scootercompanion.github.io/"
+        }
+    ],
+    "section": "Utilities",
+    "dependencies": "firmware (>= 12.4)",
+    "tint": "#FF1343",
+    "works_min": "12.4",
+    "works_max": "14.5",
+    "featured": "true",
+    "changelog": [
+        {
+            "version": "0.1",
+            "changes": "Initial beta release."
+        }
+    ]
+}
