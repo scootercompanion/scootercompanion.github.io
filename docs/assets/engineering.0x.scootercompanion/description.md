@@ -3,13 +3,16 @@ Do you have suggestions or want updates about the Scooter Companion app?
 Join the [Telegram](https://t.me/joinchat/HRNGtjJ4mp2LYr_j) group.  
   
 
+
 Compatibility:  
 Requires iOS 12.4 or later.  
 Compatible with iPhone, iPod Touch and iPad  
   
+  
 
 One of the first E-Scooter hacking apps available for iOS/ipadOS  
   
+
   
 The Scooter Companion app allows users to see stats about their scooter -
 - Serial Number
