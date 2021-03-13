@@ -1,17 +1,17 @@
 ### Only one of the best E-Scooter hacking apps ever!  
 Do you have suggestions or want updates about the Scooter Companion app?  
-Join the [Telegram](https://t.me/joinchat/HRNGtjJ4mp2LYr_j) group.
+Join the [Telegram](https://t.me/joinchat/HRNGtjJ4mp2LYr_j) group.  
 &nbsp;
 
 Compatibility:  
 Requires iOS 12.4 or later.  
-Compatible with iPhone, iPod Touch and iPad
+Compatible with iPhone, iPod Touch and iPad  
 &nbsp;
 
-One of the first E-Scooter hacking apps available for iOS/ipadOS
+One of the first E-Scooter hacking apps available for iOS/ipadOS  
 &nbsp;
 
-The Scooter Companion app allows users to see stats about their scooter -
+The Scooter Companion app allows users to see stats about their scooter -  
 - Serial Number
 - Speed (km/h & Miles)
 - Battery Percentage
@@ -21,15 +21,16 @@ The Scooter Companion app allows users to see stats about their scooter -
 - Voltage
 - ESC Version (Electronic Speed Contol)
 - BMS Version (Battery Management System)
-- BLE Version (BlueTooth Low Energy)
+- BLE Version (BlueTooth Low Energy)  
 &nbsp;
 
-Some other features of the Scooter Companion app is the ability to -
+Some other features of the Scooter Companion app is the ability to -  
 - Lock Scooter
 - Activate Sruise Control (on the go)
 - Set Speed Limit (Off - 30Km/h)
 - Adjust Region 
     - DE (Germany), EU (Europe) and US (United States)
 - Update Scooter Firmware (you can also flash custom firmwares too)
-- Reset region to DE (Germany) after reboot
+- Reset region to DE (Germany) after reboot  
+  
   
