@@ -25,10 +25,9 @@ The Scooter Companion app allows users to see stats about their scooter -
 - ESC Version (Electronic Speed Contol)
 - BMS Version (Battery Management System)
 - BLE Version (BlueTooth Low Energy)  
-  
-  
-  
-Some other features of the Scooter Companion app is the ability to -
+
+    
+Some other features of the Scooter Companion app is the ability to -  
 - Lock Scooter
 - Activate Sruise Control (on the go)
 - Set Speed Limit (Off - 30Km/h)
