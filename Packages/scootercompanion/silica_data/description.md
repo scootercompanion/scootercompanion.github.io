@@ -27,3 +27,14 @@ The Scooter Companion app allows users to see stats about their scooter -
 - BLE Version (BlueTooth Low Energy)  
   
   
+  
+Some other features of the Scooter Companion app is the ability to -
+- Lock Scooter
+- Activate Sruise Control (on the go)
+- Set Speed Limit (Off - 30Km/h)
+- Adjust Region 
+    - DE (Germany), EU (Europe) and US (United States)
+- Update Scooter Firmware (you can also flash custom firmwares too)
+- Reset region to DE (Germany) after reboot
+  
+  
