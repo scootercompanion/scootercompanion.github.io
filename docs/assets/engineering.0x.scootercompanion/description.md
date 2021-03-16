@@ -32,7 +32,7 @@ The Scooter Companion app allows users to see stats about their scooter -
 
 Some other features of the Scooter Companion app is the ability to -  
 - Lock Scooter
-- Activate Sruise Control (on the go)
+- Activate Cruise Control (on the go)
 - Set Speed Limit (Off - 30Km/h)
 - Adjust Region 
     - DE (Germany), EU (Europe) and US (United States)
