@@ -11,6 +11,12 @@ Compatible with iPhone, iPod Touch and iPad
 One of the first E-Scooter hacking apps available for iOS/ipadOS  
 &nbsp;
 
+New Features in 0.2
+- Automation - when connecting to a particular scooter it will set the region that was specified
+- Custom Serial - Set whatever serial number you want, including the magic serial number ;)
+- Custom Name - Set whatever name you want to call your scooter
+&nbsp;
+
 The Scooter Companion app allows users to see stats about their scooter -  
 - Serial Number
 - Speed (km/h & Miles)
@@ -31,6 +37,6 @@ Some other features of the Scooter Companion app is the ability to -
 - Adjust Region 
     - DE (Germany), EU (Europe) and US (United States)
 - Update Scooter Firmware (you can also flash custom firmwares too)
-- Reset region to DE (Germany) after reboot  
+- Reset region to DE (Germany) after reboot
   
   
