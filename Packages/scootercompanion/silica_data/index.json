@@ -1,11 +1,11 @@
 {
     "bundle_id": "engineering.0x.scootercompanion",
     "name": "Scooter Companion",
-    "version": "0.1",
+    "version": "0.2",
     "tagline": "Only one of the best E-Scooter hacking apps ever!",
     "homepage": "https://scootercompanion.github.io/",
     "developer": {
-        "name": "KToffel & schorlescooter",
+        "name": "KToffel & Schorlescooter",
         "email": "scootercompanion@gmail.com"
     },
     "maintainer": {
@@ -32,6 +32,10 @@
         {
             "version": "0.1",
             "changes": "Initial beta release."
+        },
+        {
+            "version": "0.2",
+            "changes": "New ui. \n\nAdded Support for all firmware versions of the G30, 1s and Pro2."
         }
     ]
 }
