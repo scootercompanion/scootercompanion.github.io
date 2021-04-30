@@ -1,7 +1,7 @@
 {
     "bundle_id": "engineering.0x.scootercompanion",
     "name": "Scooter Companion",
-    "version": "0.2",
+    "version": "0.2-Build9",
     "tagline": "Only one of the best E-Scooter hacking apps ever!",
     "homepage": "https://scootercompanion.github.io/",
     "developer": {
@@ -36,6 +36,10 @@
         {
             "version": "0.2",
             "changes": "New ui. \n\nAdded Support for all firmware versions of the G30, 1s and Pro2."
+        },
+        {
+            "version": "0.2-Build9",
+            "changes": "Fixed Connection Issue when Scooter had empty Name. \n\nColor Theme can now be changed via Settings. \n\nFixed the Speed Limit Slider, again :) \n\nMultiple Design Improvements for Devices with small Screens. \n\nScreen will stay active, when Information View is being viewed. \n\nConnection bug fix"
         }
     ]
 }
