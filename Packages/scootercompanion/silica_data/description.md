@@ -30,7 +30,7 @@ The Scooter Companion app allows users to see stats about their scooter -
 - Voltage
 - ESC Version (Electronic Speed Contol)
 - BMS Version (Battery Management System)
-- BLE Version (BlueTooth Low Energy)  
+- BLE Version (Bluetooth Low Energy)  
 &nbsp;
 
 Some other features of the Scooter Companion app is the ability to -  
@@ -38,7 +38,9 @@ Some other features of the Scooter Companion app is the ability to -
 - Activate Cruise Control (on the go)
 - Set Speed Limit (Off - 30Km/h)
 - Adjust Region 
-    - DE (Germany), EU (Europe) and US (United States)
+    - DE (Germany)
+    - EU (Europe)
+    - US (United States)
 - Update Scooter Firmware (you can also flash custom firmwares too)
 - Reset region to DE (Germany) after reboot
   
