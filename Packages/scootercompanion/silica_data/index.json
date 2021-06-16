@@ -43,7 +43,7 @@
         },
         {
             "version": "0.3-Build1",
-            "changes": "Scooters can now be activated. \n\nRobustified region change. \n\nMinor UI and bugfixes. \n\nRobustified release candidate for App Store."
+            "changes": "Scooters can now be activated. \n\nRobustified region change. \n\nMinor UI and bugfixes. \n\nRobustified release candidate for App Store. \n\nNow supports iOS 9.0 and later (something I (CodeyMooreDev) needed to do not KToffel & Schorlescooter)"
         }
     ]
 }
