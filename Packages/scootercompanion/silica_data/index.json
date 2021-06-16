@@ -1,7 +1,7 @@
 {
     "bundle_id": "engineering.0x.scootercompanion",
     "name": "Scooter Companion",
-    "version": "0.2-Build9",
+    "version": "0.3-Build1",
     "tagline": "Only one of the best E-Scooter hacking apps ever!",
     "homepage": "https://scootercompanion.github.io/",
     "developer": {
@@ -23,10 +23,10 @@
         }
     ],
     "section": "Utilities",
-    "dependencies": "firmware (>= 12.4)",
+    "dependencies": "firmware (>= 9.0)",
     "tint": "#FF1343",
-    "works_min": "12.4",
-    "works_max": "14.5",
+    "works_min": "9.0",
+    "works_max": "15.0",
     "featured": "true",
     "changelog": [
         {
@@ -40,6 +40,10 @@
         {
             "version": "0.2-Build9",
             "changes": "Fixed Connection Issue when Scooter had empty Name. \n\nColor Theme can now be changed via Settings. \n\nFixed the Speed Limit Slider, again :) \n\nMultiple Design Improvements for Devices with small Screens. \n\nScreen will stay active, when Information View is being viewed. \n\nConnection bug fix"
+        },
+        {
+            "version": "0.3-Build1",
+            "changes": "Scooters can now be activated. \n\nRobustified region change. \n\nMinor UI and bugfixes. \n\nRobustified release candidate for App Store."
         }
     ]
 }
